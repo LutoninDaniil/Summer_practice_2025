@@ -16,4 +16,4 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: TestRun
-        run: dotnet test practice2025
+        run: dotnet test practice2025.sln
